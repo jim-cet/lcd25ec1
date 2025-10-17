@@ -88,8 +88,3 @@
   description: Decodes Morse code signals representing decimal digits and displays the corresponding number on a seven-segment display. The system employs combinational logic circuits and decoder ICs to translate the input Morse code into its digital equivalent. 
   video: videos/batch28_project.mp4
 
-# - name: Decimal To Binary Quiz
-#   batch: Parvathi Nandana, Nidha Musthafa M
-#   description: Test a user's understanding of number system conversions. 
-#   video: videos/batch17_project.mp4
-
