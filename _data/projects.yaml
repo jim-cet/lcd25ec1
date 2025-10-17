@@ -27,7 +27,7 @@
   video: videos/batch27_project.mp4
 - name: Decimal To Binary Quiz
   batch: Parvathi Nandana, Nidha Musthafa M
-  description: "Test a user's understanding of number system conversions."
+  description: "Test user's understanding of number system conversions"
   video: videos/batch17_project.mp4
 - name: Passenger Counting System
   batch: Neha Fathima, Padma Menon
