@@ -7,36 +7,45 @@
     to show that machine started working and buzzer signals that the process is
     over.
   video: videos/batch25_project.mp4
-- name: Digital Clock with Alarm
-  batch: Kashinath P B, Bhajan S J
-  description: The Digital Clock with Alarm is implemented on the Basys 3 FPGA
-    board, using the 100 MHz onboard clock divided to 1 Hz to maintain real-time
-    hours, minutes, and seconds on a 7-segment display. Users can set an alarm
-    through slide switches, which triggers an LED or buzzer when the current
-    time matches, demonstrating FPGA concepts like clock division, counters,
-    conditional logic, and peripheral interfacing.
-  video: videos/batch5_project.mp4
+
+- name: Four Way Synchronous Traffic Light
+  batch: Rajkrishna T R, Aaromal B S
+  description: Clr for clearing the count. All_Red for pausing the count and
+    making all the traffic signals to red light in emergency situations.
+  video: videos/batch3_project.mp4  
+
 - name: Electronic Dice
   batch: Josin Jiby, Vivek Paul
   description: It is and electronic dice which randomly generates a value from 1-6.
   video: videos/batch24_project.mp4
+
+- name: 3 Bit Magnitude Comparator
+  batch: Jayalekshmi S , Niya Raj
+  description: This is a 3 Bit magnitude comparator which compares two numbers and
+    shows whether the number is greater lesser or equal to the another number
+  video: videos/batch19_project.mp4 
+
 - name: Random Number Generator
   batch: Muhammed Fadil N, Basil Rahman C K
   description: Design and implement a Random Number Generator that displays
     numbers from 00 to 99 using only 74xx series digital ICs.
   video: videos/batch27_project.mp4
+
 - name: Decimal To Binary Quiz
   batch: Parvathi Nandana, Nidha Musthafa M
   description: "Test user's understanding of number system conversions"
   video: videos/batch17_project.mp4
+
 - name: Passenger Counting System
   batch: Neha Fathima, Padma Menon
   description: Passenger counting system using asynchronous 3 bit JK flip flop.
   video: videos/batch33_project.mp4
+
 - name: Binary To Decimal Converter
   batch: Muhammad Riyan, Abhimanyu P Ragesh
   description: Given binary number is converted to corresponding decimal (0-99).
   video: videos/batch7_project.mp4
+
 - name: Vending Machine With Password Verification.
   batch: Anupa Shibu, Niya Kurian
   description: This project presents a digital vending machine system designed
@@ -44,11 +53,13 @@
     entry mechanism implemented using logic gates to ensure authorized access.
     It features a coin counter that detect and count the inserted coins.
   video: videos/batch11_project.mp4
+
 - name: Train Reservation Waiting List Queue Counter Using Flip-Flops
   batch: Ashna J S, Devika Sai Vinod
   description: Asynchronous mod 100 counter displayed on 7 segment display via bcd
     decoder. Toggling applied using jk flipflop.
   video: videos/batch14_project.mp4
+
 - name: 4-Bit Electronic Logic Lock
   batch: Abhijith B,Ananda Krishnan S R
   description: The project is a 4-bit digital combination lock using flip-flops
@@ -56,11 +67,9 @@
     combination. When the correct code is entered, the circuit outputs a signal
     that lights an LED; else the output will trigger a buzzer.
   video: videos/batch18_project.mp4
-- name: 3 Bit Magnitude Comparator
-  batch: Jayalekshmi S , Niya Raj
-  description: This is a 3 Bit magnitude comparator which compares two numbers and
-    shows whether the number is greater lesser or equal to the another number
-  video: videos/batch19_project.mp4
+
+
+
 - name: Binary To Decimal Converter
   batch: Samuel Cibi, Sree Vishnu Vardhan
   description: Our project converts binary number into decimal,and displays it on
@@ -79,11 +88,6 @@
     The circuit operates as a 2-bit equality comparator, producing a high output
     when both input pairs are identical.
   video: videos/batch2_project.mp4
-- name: Four Way Synchronous Traffic Light
-  batch: Rajkrishna T R, Aaromal B S
-  description: Clr for clearing the count. All_Red for pausing the count and
-    making all the traffic signals to red light in emergency situations.
-  video: videos/batch3_project.mp4
 - name: Advanced ALU With CLA And Booth Multiplier
   batch: Devika Binu,Linta Treesa Joseph
   description: FPGA implementation of an Arithmetic Logic Unit (ALU) using Verilog
@@ -105,3 +109,12 @@
     combinational logic circuits and decoder ICs to translate the input Morse
     code into its digital equivalent.
   video: videos/batch28_project.mp4
+- name: Digital Clock with Alarm
+  batch: Kashinath P B, Bhajan S J
+  description: The Digital Clock with Alarm is implemented on the Basys 3 FPGA
+    board, using the 100 MHz onboard clock divided to 1 Hz to maintain real-time
+    hours, minutes, and seconds on a 7-segment display. Users can set an alarm
+    through slide switches, which triggers an LED or buzzer when the current
+    time matches, demonstrating FPGA concepts like clock division, counters,
+    conditional logic, and peripheral interfacing.
+  video: videos/batch5_project.mp4
