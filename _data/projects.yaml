@@ -60,15 +60,13 @@
     It features a coin counter that detect and count the inserted coins.
   video: videos/batch11_project.mp4
 
-- name: 4-Bit Electronic Logic Lock
-  batch: Abhijith B,Ananda Krishnan S R
-  description: The project is a 4-bit digital combination lock using flip-flops
-    and logic gates which  compares a user-entered code with a preset
-    combination. When the correct code is entered, the circuit outputs a signal
-    that lights an LED; else the output will trigger a buzzer.
-  video: videos/batch18_project.mp4
-
-
+- name: Advanced ALU With CLA And Booth Multiplier
+  batch: Devika Binu,Linta Treesa Joseph
+  description: FPGA implementation of an Arithmetic Logic Unit (ALU) using Verilog
+    HDL, featuring a Carry Lookahead Adder and Booth Multiplier for high-speed
+    arithmetic operations.It focuses on writing effective verilog modules for
+    implementing the logic and displaying output on external hardware.
+  video: videos/batch12_project.mp4
 
 - name: Binary To Decimal Converter
   batch: Samuel Cibi, Sree Vishnu Vardhan
@@ -81,20 +79,7 @@
   description: CLA Adder with bcd output implemented on basys 3.The cla adder
     produces carry beforehand making it faster than ripple carry adder
   video: videos/batch29_project.mp4
-- name: Boolean Function Generator Using 4x1 MUX Using Basic Logic
-  batch: Amaldev P V, Seblon Basil Hurtis
-  description: This project demonstrates the design and implementation of a 4:1
-    multiplexer using basic logic gates to generate different Boolean functions.
-    The circuit operates as a 2-bit equality comparator, producing a high output
-    when both input pairs are identical.
-  video: videos/batch2_project.mp4
-- name: Advanced ALU With CLA And Booth Multiplier
-  batch: Devika Binu,Linta Treesa Joseph
-  description: FPGA implementation of an Arithmetic Logic Unit (ALU) using Verilog
-    HDL, featuring a Carry Lookahead Adder and Booth Multiplier for high-speed
-    arithmetic operations.It focuses on writing effective verilog modules for
-    implementing the logic and displaying output on external hardware.
-  video: videos/batch12_project.mp4
+
 - name: Traffic Light Controller With Pedestrian Priority
   batch: Donal Roy, Gauri Santhosh
   description: The control transitions between red, yellow and green normally and
@@ -102,6 +87,23 @@
     the during the next red signal pedestrian green lots up and the pedestrian
     can cross the road.
   video: videos/batch6_project.mp4
+
+- name: 4-Bit Electronic Logic Lock
+  batch: Abhijith B,Ananda Krishnan S R
+  description: The project is a 4-bit digital combination lock using flip-flops
+    and logic gates which  compares a user-entered code with a preset
+    combination. When the correct code is entered, the circuit outputs a signal
+    that lights an LED; else the output will trigger a buzzer.
+  video: videos/batch18_project.mp4
+
+- name: Boolean Function Generator Using 4x1 MUX Using Basic Logic
+  batch: Amaldev P V, Seblon Basil Hurtis
+  description: This project demonstrates the design and implementation of a 4:1
+    multiplexer using basic logic gates to generate different Boolean functions.
+    The circuit operates as a 2-bit equality comparator, producing a high output
+    when both input pairs are identical.
+  video: videos/batch2_project.mp4
+
 - name: Morse Code Decoder
   batch: Nandhana Sanal M, Devanandana Jayakrishnan
   description: Decodes Morse code signals representing decimal digits and displays
